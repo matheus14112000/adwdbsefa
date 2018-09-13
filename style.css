@@ -1,0 +1,16 @@
+fieldset{
+    background-color:lightsteelblue;
+    border:2px solid black;
+    margin-bottom:0px;
+    margin-left:10px;  
+}
+
+#button{
+    width: 200px;
+    height: 50px;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    font-size: 20px;
+    border-style: solid;
+    border-color: rgb(182, 182, 182);
+    border-radius: 10px;
+}
